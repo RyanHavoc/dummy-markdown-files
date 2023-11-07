@@ -21,3 +21,5 @@ Here's an overview of the planets in our solar system, listed in order of their 
 8. **Neptune**: Neptune is the farthest known planet from the Sun and is also an ice giant. It has a deep blue color due to the presence of methane in its atmosphere. Neptune has a storm system similar to Jupiter's Great Red Spot, called the Great Dark Spot.
 
 In addition to these eight planets, the solar system also contains other objects such as dwarf planets (e.g., Pluto), asteroids, comets, and various moons orbiting the planets.
+
+![](https://parade.com/.image/t_share/MTkwNTgxNDY5Mzk2NjczNjYx/earth-facts-jpg.jpg)
